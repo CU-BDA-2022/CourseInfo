@@ -7,7 +7,8 @@ For simplicity, STSCI 4780/5780 is referred to as **STSCI 4780** here.
 
 **Instructor:**  
 Tom Loredo  
-Cornell Center for Astrophysics and Planetary Science, and Field of Statistics  
+Senior Research Associate, Cornell Center for Astrophysics and Planetary Science  
+Field Faculty Member and Lecturer, Graduate Field of Statistics  
 620 Space Sciences Building  
 loredo@astro.cornell.edu  
 Office hours:  Wednesdays, 2:30pm - 4pm, and by appointment (please avoid Mondays)
