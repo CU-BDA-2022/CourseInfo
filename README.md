@@ -13,11 +13,11 @@ loredo@astro.cornell.edu
 Office hours:  Wednesdays, 2:30pm - 4pm, and by appointment (please avoid Mondays)
 
 **Teaching Assistant:**  
-Yuchen Xu: <yx439@cornell.edu>  
+Georgia Smits: <ges256@cornell.edu>  
 Office hours: TBD
 
-**Piazza forum:** [STSCI 4780 on Piazza.com](https://piazza.com/class/k5ihviybtz82lx)  
-(Watch your email for an invitation.)
+**Class discussion forum:** TBD  
+
 
 ## Enrollment waiting list
 
@@ -46,13 +46,34 @@ Please note that all original course material is **copyrighted** by the instruct
 
 *Grading will be based almost entirely on homework assignments* (current plan).
 Note that assignments will have varying difficulty, and thus contribute different amounts to your grade.
-The final assignment will be a challenging two-week assignment [this plan may change due to the coronavirus situation].
+The final assignment will be a challenging two-week assignment.
+
+All assignments will be in the form of *Jupyter notebooks*, submitted for grading via student Git repositories in the course's GitHub organization. The early lab sessions will provide an introduction to Git, GitHub, and Jupyter notebooks. Newcomers to this technology may want to seek additional tutorial content, e.g., via video courses accessible via Cornell's subscription to the LinkeIn Learning platform.
 
 *Provide **solutions**, not answers.* Communicate your *reasoning*, not just your result. A solution with sound reasoning but a minor error (like an innocuous sign error) will get more credit than a correct answer presented without motivation or with incorrect reasoning.
 
 *Everyone has a rough week now and then.* The assignment that has the most negative effect on your grade will be dropped in everyone's final grade calculation (except that the final assignment will not be dropped). If you wish, you may skip an assignment without prejudice, but please do so cautiously.
 
 *Class participation matters.* As statisticians, clear communication of understanding and uncertainty is something that will be expected of you, and you need to be able to do this verbally as well as in documents. I'll be keeping track of participation (questions and answers, in class, labs, and outside-of-class discussion). Ask questions when you are puzzled; don't think your question is "dumb" (chances are other students have the same question—perhaps because I made an error!). Answer queries and questions boldly; I don't really care whether you give the "right" or "wrong" answer to a question (indeed, many questions I pose won't have a unique right answer); I mainly want to see you genuinely engaged with the material, and with the class. Although class participation will not formally enter the grade calculation, for students at a boundary between grades, participation will be a factor influencing the assignment of the final grade.
+
+*Grading will be on a curve.* That said, in all past semesters, the grade boundaries (as a percentage of the total possible score on assignments) have been close to Cornell's past standard *un*curved grade boundaries:
+
+```
+96-100 = A+
+93-95 = A
+90-92 = A
+86-89 = B+
+83-85 = B
+80-82 = B-
+76-79 = C+
+73-75 = C
+70-72 = C
+66-69 = D+
+63-65 = D
+60-62 = D-
+59-lower = F
+```
+Per university policy, students registered for an S/U grade will get an S grade if their (curved) letter grade would be C- or higher.
 
 ## Collaboration
 
@@ -62,8 +83,8 @@ However, ***don't simply copy another student's work***. You may *discuss* assig
 
 More specifically, here are example collaboration scenarios that are forbidden and allowed:
 
-* You may not share solution code or derivations (yours or someone else's, including from a previous year, or from an online source) by email, on Piazza, in writing, or via any other method that enables someone to easily or directly copy solution code. You may share *non-solution code* through such channels—e.g., to discuss code provided in an assignment, or code in the documentation for Python or Python packages or tools—but not code comprising all or part of a solution.
-* Using someone else's code, but altering variable names, indentation, or other ancillary details is equivalent to verbatim copying, and comprises a serious academic integrity violation.
+* You may *not* share solution code or derivations (yours or someone else's, including from a previous year, or from an online source) by email, on Piazza, in writing, or via any other method that enables someone to easily or directly copy solution code. You may share *non-solution code* through such channels—e.g., to discuss code provided in an assignment, or code in the documentation for Python or Python packages or tools—but not code comprising all or part of a solution.
+* Using someone else's code, but altering variable names, indentation, or other ancillary details will be considered as equivalent to verbatim copying, and comprises a serious academic integrity violation.
 * You may work together with other students, in person, or virtually (e.g., via a Zoom conference). You may look at each others' work by viewing each others' screens (in person or via screen sharing). In the case of virtual screen sharing, you must not take a screen shot or make any other persistant copy of another student's work. Such sharing should be used only to build understanding that can help you come up with *your own* effective solution to a problem.
 * An ideal way to collaborate, when you are having trouble with a problem, is to have another student (who may be having more success with the problem) look at *your* code (rather than you look at theirs), to give you advice on what could be improved. If you are an advising student in such a situation, try not to simply give the answer; rather, point out possible issues you may see, and direct your collaborator in how to think about the problem (e.g., by pointing them to relevant lecture content or material from another source, or by pointing out something that may be wrong, allowing your collaborator to work out what should replace it).
 
@@ -76,19 +97,19 @@ If you are uncertain about whether a particular collaboration scenario may be al
 * Jack Smith helped me when I got stuck with the algebra in problem 1.
 * I worked on and off with Teresa and Xiulin and we discussed problems when we got stuck. [This implies more or less equal help across the group, that wasn't too detailed.]
 
-We don't anticipate giving detailed attention to disclosures (e.g., we aren't going to be too picky about consistency, e.g., if you forget to mention you helped someone who says you helped them in their disclosure). The disclosures are meant to help us understand what's going on when solutions look a bit similar. Mainly we hope they'll encourage you to try to make your work as independent as possible, while still benefitting from collaboration.
+We don't anticipate giving detailed attention to disclosures (e.g., we aren't going to be too picky about consistency, e.g., if you forget to mention you helped someone who says you helped them in their disclosure). The disclosures are meant to help us understand what's going on when solutions look a bit similar. Mainly we hope they'll encourage you to try to make your work as independent as possible, while still benefitting from collaboration, and to give each other a shout-out for helping each other learn the material.
 
-**Collaboration via Piazza.** You may also use the course's Piazza forum to ask (and answer!) questions about lectures, labs, and assignments.
+**Collaboration via the discussion forum.** You may also use the course's discussion forum to ask (and answer!) questions about lectures, labs, and assignments.
 
-*View Piazza primarily as a virtual study group attended by all the students in the class,* and only secondarily as a way to ask questions of instructors. Consider fellow students to be the primary audience for Piazza posts. In that light, we encourage you to post any interesting resource, insights, or news items relevant to the course on Piazza, not just questions about assignments. We consider Piazza posts—especially those that contribute information, including answers to questions—as a form of class participation.
+*View the forum primarily as a virtual study group attended by all the students in the class,* and only secondarily as a way to ask questions of instructors. Consider fellow students to be the primary audience for forum posts. In that light, we encourage you to post any interesting resource, insights, or news items relevant to the course on the forum, not just questions about assignments. We consider forumposts—especially those that contribute information, including answers to questions—as a form of class participation.
 
-We'll monitor and contribute to the Piazza forum as best as we can, especially for questions seeking *quick and brief* clarification on a homework problem or lecture topic. But if you need nontrivial help specifically from an instructor (lecturer or TA), attending office hours (regular or ad hoc) is the main way you should seek such help. In particular, do not ask for help on Piazza with the expectation of getting a quick instructor response outside of regular work hours, especially on the evening an assignment is due. We may respond on Piazza at such times, but you should not count on it.
+We'll monitor and contribute to the forum as best as we can, especially for questions seeking *quick and brief* clarification on a homework problem or lecture topic. But if you need nontrivial help specifically from an instructor (lecturer or TA), attending office hours (regular or ad hoc) is the main way you should seek such help. In particular, do not ask for help on the forum with the expectation of getting a quick instructor response outside of regular work hours, especially on the evening an assignment is due. We may respond on the forum at such times, but you should not count on it.
 
-The key to getting good help on Piazza (from instructors or your peers) is to *ask good questions*. Michael Clarkson, in Cornell's CS department, provides advice on writing good Piazza questions here: [Asking Technical Questions - CS 3110 Fall 2019](https://www.cs.cornell.edu/courses/cs3110/2019fa/thoughtful.html). There are many good tips in this document, even on how to title your question to help it get more attention from fellow students.
+The key to getting good help on the forum (from instructors or your peers) is to *ask good questions*. Michael Clarkson, in Cornell's CS department, provides advice on writing good forum questions here: [Asking Technical Questions - CS 3110 Fall 2019](https://www.cs.cornell.edu/courses/cs3110/2019fa/thoughtful.html). There are many good tips in this document, even on how to title your question to help it get more attention from fellow students.
 
-Keep in mind that *Piazza is a very poor channel to use for jointly debugging code*. In most cases, fixing a bug requires exploring parts of the failing code up the calling chain from where the bug becomes apparent. Trying to do this by iterating on Piazza is extremely frustrating and time consuming. And in any case, you must not share solution code publicly on Piazza. A *private* Piazza question, to instructors, is also not appropriate for debugging code (private or public posts with conceptual questions about homework problems are fine, including posts with plots from your solution). If you need debugging help, try to attend office hours or schedule a one-on-one Zoom session, so you can share your code editor screen with an instructor and iterate more quickly toward a solution.
+Keep in mind that *the forum is a very poor channel to use for jointly debugging code*. In most cases, fixing a bug requires exploring parts of the failing code up the calling chain from where the bug becomes apparent. Trying to do this by iterating on the forum is extremely frustrating and time consuming. And in any case, you must not share solution code publicly on the forum. A *private* forum question, to instructors, is also not appropriate for debugging code (private or public posts with conceptual questions about homework problems are fine, including posts with plots from your solution). If you need debugging help, try to attend office hours or schedule a one-on-one Zoom session, so you can share your code editor screen with an instructor and iterate more quickly toward a solution.
 
-Note that Piazza permits anonymous posting. The forum is set up so that an anonymous post reveals your identity to instructors, but hides it from fellow students..
+Note that the forum may permit anonymous posting. If that's the case, the forum will likely be set up so that an anonymous post reveals your identity to instructors, but hides it from fellow students.
 
 ## Academic integrity
 
@@ -113,7 +134,7 @@ Note it is the newer, 2nd edition, that I recommend. The library currently has o
 
 Another introductory text, equally close in spirit, is:
 
-*Statistical Rethinking: A Bayesian Course with Examples in R and Stan* (& PyMC3 & brms & Julia too) 
+*Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia too)* 
 By Richard McElreath
 
 * [Statistical Rethinking – Richard McElreath's book site](https://xcelab.net/rm/statistical-rethinking/)
@@ -170,8 +191,42 @@ Finally, I **strongly** recommend the following largely nontechnical book for th
 
 This book grew out of a Stanford undergraduate course of the same name offered by Diaconis and Brian Skyrms, an influential philosopher of science. Although most of the text is nontechnical, many chapters have mathematical appendices, most of them quite accessible, but some a bit challenging.
 
-
 ## Lecture plan
+
+* Course introduction; models, measurements, arguments
+* Foundations
+  * Probability theory as logic
+  * Key theorems: Bayes's theorem; the law of total probability
+* Bayesian inference with discrete data
+  * Binary hypotheses and data (Bernoulli distribution; binary classification)
+  * Continuous parameter estimation with binomial data (binomial and beta distributions)
+  * Parameter estimation with multinomial data (multinomial and Dirichlet distributions)
+  * Parameter estimation with Poisson data (Poisson and gamma distributions)
+* Bayesian inference with continuous data
+  * Normal (Gaussian) and Student's $t$ distributions
+* Composite hypotheses
+  * Propagating uncertainty
+  * Model comparison & marginalizatino
+  * Prediction & model checking
+* Basic Bayesian computation
+  * Laplace approximation
+  * Quadrature and cubature rules
+  * IID Monte Carlo integration
+  * Markov chain Monte Carlo (MCMC)
+* Multivariate relationships
+  * Conditional dependence/independence, graphical models
+  * Bivariate normal distribution
+  * Regression
+* Hierarchical Bayesian models
+  * Shrinkage
+  * Measurement error models
+* Bayesian computation beyond the basics
+* Assigning direct probabilities (sampling distributions and priors)
+  * Consistency and symmetry requirements; functional equations
+  * Jeffreys priors; reference priors
+* Basics of decision theory & experimental design
+
+The following is a *tentative* schedule with the early lecture topics:
 
  Lec # | Date   | Topic
 ---|--------|------
@@ -198,12 +253,14 @@ I have a menu of further topics we'll address as time allows.  If you've encount
 
 ## Lab plan
 
+The labs will focus on the homework assignments, aiming to help you build the skills and insights needed to put the lecture content to work in solving problems. 
+
 For the first few weeks, the labs will operate somewhat separately from the lectures, aiming to build familiarity with the tools we'll use to implement nontrivial Bayesian computations later in the course.
 
  Lab # | Date   | Topic
 ---|--------|------
 1|	Jan	28 | Markdown, Git, GitHub
-2|	Feb 4 | IPython notebook
+2|	Feb 4 | Jupyter notebooks 
 3|	Feb 11 | The PyData stack
 4|	Feb 18 | Bayesian computation for single-parameter models
 
