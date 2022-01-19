@@ -22,7 +22,7 @@ Office hours: TBD
 
 ## Enrollment waiting list
 
-Enrollment for STSCI 4780 is currently full. **If you are hoping to add the course if spaces open up, please email Tom** (if you haven't already), so you can get access to course announcements and material in private GitHub repositories.
+Enrollment for STSCI 4780 is currently full. **If you are hoping to add the course if spaces open up, please email Tom** (if you haven't already), so you can get access to course announcements and material in private GitHub repositories. Students waiting for an opening must monitor the course registration themselves to see if an opening arises.
 
 
 ## Course goals
