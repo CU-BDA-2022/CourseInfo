@@ -1,6 +1,6 @@
 # STSCI 4780/5780 - Bayesian data analysis: principles and practice
 
-For simplicity, STSCI 4780/5780 is referred to as **STSCI 4780** here.
+For simplicity, STSCI 4780/5780 is often referred to as **STSCI 4780** or **BDA** in course documents and correspondence.
 
 **Lectures:**  Tuesdays & Thursdays, 1:00pm - 2:15pm, in PhySci 120  
 **Labs:**  Fridays, 2:45pm - 4:00pm, in Warren B75
@@ -17,7 +17,18 @@ Office hours:  Wednesdays, 2:30pm - 4pm, and by appointment (please avoid Monday
 Georgia Smits: <ges256@cornell.edu>  
 Office hours: TBD
 
-**Class discussion forum:** TBD  
+**Class discussion forum:** An Ed forum is accessible via the course's Canvas site. We've previously used Piazza for online class discussions; please bear with us as we adapt to Ed.
+
+## Contents
+
+* Enrollment waiting list
+* Course goals
+* Grading
+* Collaboration
+* Academic integrity
+* Instructional material — lecture notes, textbooks
+* Course overview and lecture plan
+* Lab plan
 
 
 ## Enrollment waiting list
@@ -34,13 +45,6 @@ Provide all students:
 - Experience with some widely-used tools and software development practices for producing and sharing collaborative, reproducible statistical research
 - Exposure to the Bayesian academic research literature 
 - An understanding of key differences between Bayesian and frequentist approaches
-
-
-## Course instructional material
-
-Most course material will be available via the GitHub organization hosting this document. Some material is hosted on the course's Canvas page, particularly material requiring a CU netID for access (e.g., course reserve books at the Math Library and online as eBooks, LinkedIn Learning video links).
-
-Please note that all original course material is **copyrighted** by the instructor (&copy; 2015, 2018, 2020, 2022 by Thomas Loredo).  Please do not post it publicly.
 
 
 ## Grading
@@ -116,7 +120,14 @@ Note that the forum may permit anonymous posting. If that's the case, the forum 
 
 Academic integrity expectations for STSCI 4780 (beyond those addressed above in regard to collaboration) are spelled out in a separate document: [Academic integrity expectations for STSCI 4780](AcademicIntegrity.md).
 
-## Textbooks
+## Instructional material
+
+
+Most course material will be available via the GitHub organization hosting this document. Some material is hosted on the course's Canvas page, particularly material requiring a CU netID for access (e.g., course reserve books at the Math Library and online as eBooks, LinkedIn Learning video links).
+
+Please note that all original course material is **copyrighted** by the instructor (&copy; 2015, 2018, 2020, 2022 by Thomas Loredo).  Please do not post it publicly.
+
+The slides for all lectures will be made available via the LectureResources Git repo just prior to each class, as PDF files. Some lectures will involve work on a whiteboard; I'll make an effort to capture whiteboard content and included it in a post-lecture revision of the slides (accessible by simply doing a `git pull` in your copy of the LabResources repo).
 
 We will not be following the content of any one book. Lecture and lab notes (mine and yours), as well as assigned readings from various sources, should suffice for completing the course with a high grade if you're a good note-taker.
 
