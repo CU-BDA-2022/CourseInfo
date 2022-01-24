@@ -25,6 +25,7 @@ Office hours: TBD
 * Course goals
 * Grading & assignments
 * Collaboration
+* Academic well-being
 * Academic integrity
 * Instructional material — lecture notes, textbooks
 * Course overview and lecture plan
@@ -117,6 +118,20 @@ The key to getting good help on the forum (from instructors or your peers) is to
 Keep in mind that *the forum is a very poor channel to use for jointly debugging code*. In most cases, fixing a bug requires exploring parts of the failing code up the calling chain from where the bug becomes apparent. Trying to do this by iterating on the forum is extremely frustrating and time consuming. And in any case, you must not share solution code publicly on the forum. A *private* forum question, to instructors, is also not appropriate for debugging code (private or public posts with conceptual questions about homework problems are fine, including posts with plots from your solution). If you need debugging help, try to attend office hours or schedule a one-on-one Zoom session, so you can share your code editor screen with an instructor and iterate more quickly toward a solution.
 
 Note that the forum may permit anonymous posting. If that's the case, the forum will likely be set up so that an anonymous post reveals your identity to instructors, but hides it from fellow students.
+
+## Academic well-being
+
+College/university education can sometimes be stressful; the additional burdens added by pandemic impacts and remote instruction can significantly add to the stress. Cornell provides resources for students to help promote academic well-being and good mental health:
+
+* Cornell's [Learning Strategies Center](https://live-learning-strategies-center.pantheonsite.io/) (LSC) provides tips for more efficient, less stressful learning. On the topic of collaboration, they provide a service to help students find study partners; see: [Studying Together](https://live-learning-strategies-center.pantheonsite.io/studying-together/). If you are seeking a study partner and LSC can't help, contact me about it.
+* Regarding online instruction, LSC also has resources to help you learn more effectively online; see: [LEARNING ONLINE – Learning Strategies Center](https://live-learning-strategies-center.pantheonsite.io/how-to-study/learning-online/).
+* LSC operates *Motivation Stations* for students who can benefit from learning in the presence of peers—a kind of Zoom-based study hall, with tutors available to help with study skills. See: [Motivation Station and Study Skills Peer Consults! – Learning Strategies Center](https://live-learning-strategies-center.pantheonsite.io/studying-together/motivation-station/).
+* LSC has created Canvas modules on various study skills: “Gearing up for Academic Success”, “Managing Space and Time”, “Taking Effective Notes”, and “Preparing for and Taking Exams”. To enroll: [Enroll in LSC Study Skills Modules](https://canvas.cornell.edu/enroll/NC3TFB).
+* Other Cornell-based resources that can help with mental health and stress issues include:
+  * [Skorton Center for Health Initiatives](https://health.cornell.edu/initiatives/skorton-center) — Alcohol and other drug initiatives, anti-racism and bias prevention, hazing prevention, mental health promotion, sexual violence prevention, suicide prevention
+  * [Cornell Health](https://health.cornell.edu/)
+  * [Mental Health at Cornell](https://mentalhealth.cornell.edu/), including a directory of 24/7 help resources: [24/7 Help](https://mentalhealth.cornell.edu/247-help)
+  * Student-led mental health initiatives: [Ways Students Can Get Involved | Mental Health at Cornell](https://mentalhealth.cornell.edu/get-involved/ways-students-can-get-involved)
 
 ## Academic integrity
 
