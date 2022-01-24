@@ -23,7 +23,7 @@ Office hours: TBD
 
 * Enrollment waiting list
 * Course goals
-* Grading
+* Grading & assignments
 * Collaboration
 * Academic integrity
 * Instructional material — lecture notes, textbooks
@@ -38,7 +38,7 @@ Enrollment for STSCI 4780 is currently full. **If you are hoping to add the cour
 
 ## Course goals
 
-Provide all students:
+Provide students:
 
 - A basic understanding of the principles and foundations underlying the Bayesian approach
 - Practical experience using basic/intermediate Bayesian methods
@@ -47,11 +47,9 @@ Provide all students:
 - An understanding of key differences between Bayesian and frequentist approaches
 
 
-## Grading
+## Grading & assignments
 
-*Grading will be based almost entirely on homework assignments* (current plan).
-Note that assignments will have varying difficulty, and thus contribute different amounts to your grade.
-The final assignment will be a challenging two-week assignment.
+*Grading will be based almost entirely on homework assignments* (current plan). Note that assignments will have varying difficulty, and thus contribute different amounts to your grade. The final assignment will be a challenging two-week assignment.
 
 All assignments will be in the form of *Jupyter notebooks*, submitted for grading via student Git repositories in the course's GitHub organization. The early lab sessions will provide an introduction to Git, GitHub, and Jupyter notebooks. Newcomers to this technology may want to seek additional tutorial content, e.g., via video courses accessible via Cornell's subscription to the LinkeIn Learning platform.
 
@@ -59,7 +57,11 @@ All assignments will be in the form of *Jupyter notebooks*, submitted for gradin
 
 *Everyone has a rough week now and then.* The assignment that has the most negative effect on your grade will be dropped in everyone's final grade calculation (except that the final assignment will not be dropped). If you wish, you may skip an assignment without prejudice, but please do so cautiously.
 
-*Class participation matters.* As statisticians, clear communication of understanding and uncertainty is something that will be expected of you, and you need to be able to do this verbally as well as in documents. I'll be keeping track of participation (questions and answers, in class, labs, and outside-of-class discussion). Ask questions when you are puzzled; don't think your question is "dumb" (chances are other students have the same question—perhaps because I made an error!). Answer queries and questions boldly; I don't really care whether you give the "right" or "wrong" answer to a question (indeed, many questions I pose won't have a unique right answer); I mainly want to see you genuinely engaged with the material, and with the class. Although class participation will not formally enter the grade calculation, for students at a boundary between grades, participation will be a factor influencing the assignment of the final grade.
+*Hand in assignments on time.* New assignments will be provided during the Friday labs, and labs will typically run through material relevant to a new assignment. Completed assignments will be due shortly before the next lab. Especially starting around Assignment04, **many assignments will build on each other**. For such assignments, new assignments will contain code that corresponds to the solutions of the previous assignment. It is thus extremely problematic to hand in assignments late.
+
+If you need an extension, request one as soon as possible; don't wait until the last minute. We will readily grant extensions early in the course (largely because we understand that some of you are starting the course less  well prepared than others, particularly in regard to the technology  we're using—Python, Git, GitHub, Markdown, MathJax). After the early assignments, please, ask for an extension *only under unusual circumstances*.  Illness, multiple job interviews on the assignment due date, a  significant family or personal matter—these are all circumstances that  may justify an extension. Your course load generally is *not* a good reason for an extension after the early assignments—plan ahead to ensure you can complete assignments on time.
+
+*Class participation matters.* As statisticians, clear communication of understanding and uncertainty is something that will be expected of you, and you need to be able to do this verbally as well as in documents. I'll be keeping track of participation (questions and answers, in class, labs, and outside-of-class discussion, e.g., in the class forum and office hours). Ask questions when you are puzzled; don't think your question is "dumb" (chances are other students have the same question—perhaps because I made an error!). Answer queries and questions boldly; I don't really care whether you give the "right" or "wrong" answer to a question (indeed, many questions I pose won't have a unique right answer); I mainly want to see you genuinely engaged with the material, and with the class. Although class participation will not formally enter the grade calculation, for students at a boundary between grades, participation will be a factor influencing the assignment of the final grade.
 
 *Grading will be on a curve.* That said, in all past semesters, the grade boundaries (as a percentage of the total possible score on assignments) have been close to Cornell's past standard *un*curved grade boundaries:
 
@@ -88,7 +90,7 @@ However, ***don't simply copy another student's work***. You may *discuss* assig
 
 More specifically, here are example collaboration scenarios that are forbidden and allowed:
 
-* You may *not* share solution code or derivations (yours or someone else's, including from a previous year, or from an online source) by email, on Piazza, in writing, or via any other method that enables someone to easily or directly copy solution code. You may share *non-solution code* through such channels—e.g., to discuss code provided in an assignment, or code in the documentation for Python or Python packages or tools—but not code comprising all or part of a solution.
+* You may *not* share solution code or derivations (yours or someone else's, including from a previous year, or from an online source) by email, on the forum, in writing, or via any other method that enables someone to easily or directly copy solution code. You may share *non-solution code* through such channels—e.g., to discuss code provided in an assignment, or code in the documentation for Python or Python packages or tools—but not code comprising all or part of a solution.
 * Using someone else's code, but altering variable names, indentation, or other ancillary details will be considered as equivalent to verbatim copying, and comprises a serious academic integrity violation.
 * You may work together with other students, in person, or virtually (e.g., via a Zoom conference). You may look at each others' work by viewing each others' screens (in person or via screen sharing). In the case of virtual screen sharing, you must not take a screen shot or make any other persistant copy of another student's work. Such sharing should be used only to build understanding that can help you come up with *your own* effective solution to a problem.
 * An ideal way to collaborate, when you are having trouble with a problem, is to have another student (who may be having more success with the problem) look at *your* code (rather than you look at theirs), to give you advice on what could be improved. If you are an advising student in such a situation, try not to simply give the answer; rather, point out possible issues you may see, and direct your collaborator in how to think about the problem (e.g., by pointing them to relevant lecture content or material from another source, or by pointing out something that may be wrong, allowing your collaborator to work out what should replace it).
