@@ -148,11 +148,12 @@ Note it is the newer, 2nd edition, that I recommend. The library currently has o
 
 Another introductory text, equally close in spirit, is:
 
-*Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia too)* 
-By Richard McElreath
+*Statistical Rethinking: A Bayesian Course with Examples in R and Stan*  
+By Richard McElreath  
+(The book website also has example code for PyMC3, brms, & Julia)
 
 * [Statistical Rethinking – Richard McElreath's book site](https://xcelab.net/rm/statistical-rethinking/)
-* [Amazon.com](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445)
+* [Amazon.com](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman-dp-036713991X/dp/036713991X/ref=dp_ob_title_bk)
 
 The library has it available as an eBook (albeit in the awkward O'Reilly Online Learning Platform).
 
@@ -186,14 +187,14 @@ In my own fields of physics and astronomy, and in AI/computer science, one of th
 By Edwin T. Jaynes; ed. by G. Larry Bretthorst
 
 * [Amazon.com](http://www.amazon.com/Probability-Theory-The-Logic-Science/dp/0521592712)
-* [Publisher's site](http://www.cambridge.org/asia/catalogue/catalogue.asp?isbn=0511059582)
+* [Publisher's site](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99)
 
 Jaynes started working on this book in the late 1950s; I knew him and had access to some early versions. Unfortunately, he was such a perfectionist that he never felt happy with the book, and he left it unpublished at his death. His former student, Larry Bretthorst, did some final editing so the book could be published posthumously. The first three chapters are available on Bretthorst's web site: 
 [PTLOS chapters 1-3 (PDF)](http://bayes.wustl.edu/etj/prob/book.pdf).
 
 This book offers probably the clearest and most thorough modern account of the principles of Bayesian inference, and fundamental analytical developments. It has little content relevant to computational implementation of Bayesian methods, but of course a deep understanding of foundations and fundamentals is a great help for practical use. The book is quite polemical in places (reflecting its history). Persi Diaconis, an influential mathematician and Bayesian statistician (and former Cornellian, and magician!), wrote a wonderful, frank, and very positive review that is worth reading:
 
-["A Frequentist Does This, A Bayesian That" (Diaconis's review of Jaynes's PTLOS)](http://www.siam.org/news/news.php?id=81)
+["A Frequentist Does This, A Bayesian That" (Diaconis's review of Jaynes's PTLOS)](https://archive.siam.org/news/news.php?id=81)
 
 I've put several other useful books on reserve; see the Canvas site for a list.
 
