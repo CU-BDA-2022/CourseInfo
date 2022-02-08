@@ -11,7 +11,7 @@ Senior Research Associate, Cornell Center for Astrophysics and Planetary Science
 Field Faculty Member and Lecturer, Graduate Field of Statistics  
 620 Space Sciences Building  
 loredo@astro.cornell.edu  
-Office hours:  Tuesdays, 4pm - 5:30pm, and by appointment (please avoid Mondays)
+Office hours:  Tuesdays, 4pm - 5:30pm, and by appointment (please avoid Mondays)  
 
 **Teaching Assistant:**  
 Georgia Smits: <ges256@cornell.edu>  
@@ -51,6 +51,8 @@ Provide students:
 ## Grading & assignments
 
 *Grading will be based almost entirely on homework assignments* (current plan). Note that assignments will have varying difficulty, and thus contribute different amounts to your grade. The final assignment will be a challenging two-week assignment.
+
+Graduate students enrolled in 5780 will have an extra assignment, or extra assignment work on some assignments (TBD).
 
 All assignments will be in the form of *Jupyter notebooks*, submitted for grading via student Git repositories in the course's GitHub organization. The early lab sessions will provide an introduction to Git, GitHub, and Jupyter notebooks. Newcomers to this technology may want to seek additional tutorial content, e.g., via video courses accessible via Cornell's subscription to the LinkeIn Learning platform.
 
