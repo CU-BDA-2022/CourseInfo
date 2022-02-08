@@ -12,6 +12,7 @@ Field Faculty Member and Lecturer, Graduate Field of Statistics
 620 Space Sciences Building  
 loredo@astro.cornell.edu  
 Office hours:  Tuesdays, 4pm - 5:30pm, and by appointment (please avoid Mondays)  
+*In-person* office hours will be in **Space Sciences Bldg Rm 616** (enter via the doors facing the Big Red Barn; turn left then right to get to the elevator; take elevator to 6th floor; walk straight down the hall to 616, at the back of the building).
 
 **Teaching Assistant:**  
 Georgia Smits: <ges256@cornell.edu>  
