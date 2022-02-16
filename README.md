@@ -11,12 +11,12 @@ Senior Research Associate, Cornell Center for Astrophysics and Planetary Science
 Field Faculty Member and Lecturer, Graduate Field of Statistics  
 620 Space Sciences Building  
 loredo@astro.cornell.edu  
-Office hours:  Tuesdays, 4pm - 5:30pm, and by appointment (please avoid Mondays)  
-*In-person* office hours will be in **Space Sciences Bldg Rm 616** (enter via the doors facing the Big Red Barn; turn left then right to get to the elevator; take elevator to 6th floor; walk straight down the hall to 616, at the back of the building).
+Office hours:  **Tuesdays, 4pm - 5:30pm**, and by appointment (please avoid Mondays)  
+*In-person* office hours will be in **Space Sciences Bldg Room 616** (enter via the doors facing the Big Red Barn; turn left then right to get to the elevator; take elevator to 6th floor; walk straight down the hall to 616, at the back of the building).
 
 **Teaching Assistant:**  
 Georgia Smits: <ges256@cornell.edu>  
-Office hours: Wednesdays, 2:30pm - 4pm
+Office hours: **Wednesdays, 2:30pm - 4pm**; in-person office hours will be in **Malott Hall Room 118**
 
 **Class discussion forum:** An Ed forum is accessible via the course's Canvas site. We've previously used Piazza for online class discussions; please bear with us as we adapt to Ed.
 
